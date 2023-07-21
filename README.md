@@ -1,12 +1,10 @@
-# *_ALGORITHM APP_*  ![App Icon](images/icon-small.png)  
+# *_ALGORITHM APP_* 
 
 ## BASIC SORTING VISUALISATION
 > Understand the Sorting concept by visualizing it.
 > *Vizualization* _-_ *Definition* _-_ *Complexity* _-_ *Codes*
 
 
-### Website Preview
-![App Preview Gif](images/Algorithm_App.gif)
 
 ### Available Sorting Techniques :
   * Bubble Sort
@@ -25,10 +23,6 @@
 
 ---
 
-# PRODUCTION 
-|Sl.| _Release Date_ | _Version_    | _Author_ |
-|---|----------------|--------------|----------|
-|1  |23th Dec, 2020  |v0.123.122.020|*`Sandeep Shaw`*|
 
 
 ### WEBSITE TYPE : _*`Static`*_
@@ -67,22 +61,7 @@
   * Requires _AUTOMATIC REFRESH_ after Quick Sort
 
 
-# LICENSE
-This project is licensed under [MIT](LICENSE.txt "View License")
 
-> __Sandeep Shaw__
->(Student, C.S.E)
->
->Follow me on :
->[LinkedIn](https://www.linkedin.com/in/sandeep-shaw-b47b47158/) |
->[Instagram](https://www.instagram.com/san_deep_10/) |
->[Youtube](https://www.youtube.com/channel/UCnzoz-Snqs689f1YLqi--zg) |
->[Github](https://github.com/sandeep-shaw10)
->
->If you like this repository dont forget to give a star &#128077;
-
-
----
 
 
 # PROJECT INFERENCE
