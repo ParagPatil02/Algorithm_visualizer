@@ -1,4 +1,5 @@
 # *_ALGORITHM APP_* 
+demo link-https://algorithm-visualzer.netlify.app/
 
 ## BASIC SORTING VISUALISATION
 > Understand the Sorting concept by visualizing it.
